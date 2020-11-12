@@ -1,6 +1,6 @@
 # Simple ALB - Autoscalling Group deployment on AWS using Terraform
 
-Still in my learning journey of Terraform so ...
+Still on my learning journey of Terraform so ...
 
 This is a Terraform code that launches an autoscalling group using a launch template and an Application Load Balancer.
 At least 2 EC2 instances at launched during the deployment.
